@@ -1,0 +1,28 @@
+name: tennisgods
+favicon: null
+layout_spectrum: 0.7164495775941759
+typography_spectrum: 0.719759012805298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4172629890963435
+  lightness: 0.24412968521937728
+  saturation: 0.6951525395270437
+  rhythmicContrast: 0.5252664850559086
+purpose: []
