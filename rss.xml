@@ -4,7 +4,7 @@
         <description><![CDATA[Top 100 Tennis Players]]></description>
         <link>https://thegrid.ai/tennisgods/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 21:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 21:47:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tennisgods/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Andy Murray]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/tennisgods/monte-carlo-rolex-masters/index.html</link>
             <guid isPermaLink="false">bc924358-8965-4a3f-92e5-e923b26cc6ee</guid>
             <pubDate>Tue, 03 May 2016 17:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Murray]]></title>
-            <description><![CDATA[<article><h1>Andy Murray</h1><p> Began playing at age 3</p></article>]]></description>
-            <link>https://thegrid.ai/tennisgods/andy-murray/index.html</link>
-            <guid isPermaLink="false">97b350b6-5bf3-406d-babe-2693cf76ad47</guid>
-            <pubDate>Tue, 19 Apr 2016 12:56:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
