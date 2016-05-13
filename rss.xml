@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Top 100 Tennis Players]]></title>
         <description><![CDATA[Top 100 Tennis Players]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tennisgods/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 13 May 2016 21:55:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/tennisgods/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Novak Djokovic]]></title>
+            <description><![CDATA[<article><h1>Novak Djokovic</h1><p>> Nicknamed “Nole”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0007418a745478b873c7e524fc9595539d82fe90.jpg"></article>]]></description>
+            <link>http://novakdjokovic.com/en/?continue=true</link>
+            <guid isPermaLink="false">d93369e2-7047-42f4-beca-fd71119f57b7</guid>
+            <pubDate>Fri, 13 May 2016 21:54:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andy Murray]]></title>
             <description><![CDATA[<article><h1>Andy Murray</h1><p>> Began playing at age 3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fa0c32133824363184f11b5d40274d408743588.jpg"></article>]]></description>
