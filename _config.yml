@@ -1,5 +1,8 @@
+name: tennisgods
+favicon: null
+layout_spectrum: 0.4617021
+typography_spectrum: 0.719759012805298
 title: Top 100 Tennis Players
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6951525395270437
-  brandStrength: 1
-  rhythmicContrast: 0.5
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  lightness: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: tennisgods
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.719759012805298
-layout_spectrum: 0.4617021
+  brandStrength: 0.75
+  lightness: 0.9375
+  saturation: 0.375
+  rhythmicContrast: 0.75
+purpose: []
