@@ -1,16 +1,24 @@
 ---
-author: []
-datePublished: '2016-05-13T21:54:45.660Z'
-title: Novak Djokovic
-isBasedOnUrl: 'http://novakdjokovic.com/en/?continue=true'
-description: '> Nicknamed “Nole”'
-sourcePath: _posts/2016-05-13-novak-djokovic.md
-dateModified: '2016-05-13T21:53:56.559Z'
-starred: false
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: '> Nicknamed “Nole”'
+datePublished: '2016-05-16T21:44:45.526Z'
+dateModified: '2016-05-16T21:43:01.344Z'
+author: []
+title: Novak Djokovic
+sourcePath: _posts/2016-05-13-novak-djokovic.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: novak-djokovic/index.html
+_type: Article
 
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0007418a745478b873c7e524fc9595539d82fe90.jpg" /><h1>Novak Djokovic</h1><p>#1</p></article>
