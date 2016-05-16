@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T22:38:45.188Z'
+datePublished: '2016-05-16T22:39:36.865Z'
 sourcePath: _posts/2016-05-13-rogerfederercom-rogerfederercom.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author:
   - {}
-dateModified: '2016-05-16T22:38:39.404Z'
+dateModified: '2016-05-16T22:39:36.570Z'
 title: Roger Federer
 publisher:
   name: null
@@ -17,7 +17,7 @@ publisher:
 description: '> Began playing tennis at age 8'
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: roger-federer/index.html
 _type: Article
 
