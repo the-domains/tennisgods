@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '> Began playing tennis at age 8'
-datePublished: '2016-05-16T21:47:57.141Z'
-dateModified: '2016-05-16T21:47:39.863Z'
+description: ' Began playing tennis at age 8'
+datePublished: '2016-05-16T22:36:05.668Z'
+dateModified: '2016-05-16T21:49:08.808Z'
 author:
   - {}
 title: Roger Federer
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: roger-federer/index.html
 _type: Article
 
