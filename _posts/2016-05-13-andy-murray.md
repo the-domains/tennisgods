@@ -4,10 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '> Began playing at age 3'
-datePublished: '2016-05-16T21:42:40.943Z'
-dateModified: '2016-05-16T21:42:36.403Z'
-author: []
+description: ' Began playing at age 3'
+datePublished: '2016-05-16T22:39:46.661Z'
+dateModified: '2016-05-16T22:39:46.146Z'
+author:
+  - name: ''
+    url: ''
 title: Andy Murray
 sourcePath: _posts/2016-05-13-andy-murray.md
 authors: []
@@ -16,12 +18,12 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: andy-murray/index.html
 _type: Article
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fa0c32133824363184f11b5d40274d408743588.jpg" /><h1>Andy Murray</h1><p>#3</p></article>
+<article style=""><h1>Andy Murray</h1><p>#2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fa0c32133824363184f11b5d40274d408743588.jpg" /></article>
 
 \> Began playing at age 3
 
