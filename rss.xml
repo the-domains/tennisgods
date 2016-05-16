@@ -4,21 +4,21 @@
         <description><![CDATA[Top 100 Tennis Players]]></description>
         <link>https://thegrid.ai/tennisgods/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 21:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 21:44:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tennisgods/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Novak Djokovic]]></title>
+            <description><![CDATA[<article><h1>Novak Djokovic</h1><p>> Nicknamed “Nole”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0007418a745478b873c7e524fc9595539d82fe90.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tennisgods/novak-djokovic/index.html</link>
+            <guid isPermaLink="false">d93369e2-7047-42f4-beca-fd71119f57b7</guid>
+            <pubDate>Mon, 16 May 2016 21:44:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andy Murray]]></title>
             <description><![CDATA[<article><h1>Andy Murray</h1><p> Began playing at age 3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fa0c32133824363184f11b5d40274d408743588.jpg"></article>]]></description>
             <link>https://thegrid.ai/tennisgods/andy-murray/index.html</link>
             <guid isPermaLink="false">be68fe6c-f081-4c70-8125-c7b371118abb</guid>
             <pubDate>Mon, 16 May 2016 21:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Novak Djokovic]]></title>
-            <description><![CDATA[<article><h1>Novak Djokovic</h1><p>> Nicknamed “Nole”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0007418a745478b873c7e524fc9595539d82fe90.jpg"></article>]]></description>
-            <link>http://novakdjokovic.com/en/?continue=true</link>
-            <guid isPermaLink="false">d93369e2-7047-42f4-beca-fd71119f57b7</guid>
-            <pubDate>Fri, 13 May 2016 21:54:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
