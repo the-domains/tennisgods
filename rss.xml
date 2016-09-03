@@ -2,28 +2,35 @@
     <channel>
         <title><![CDATA[Top 100 Tennis Players]]></title>
         <description><![CDATA[Top 100 Tennis Players]]></description>
-        <link>https://thegrid.ai/tennisgods/</link>
+        <link>http://tennisgods.facebookselect.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 22:40:07 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/tennisgods/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 13:41:21 GMT</lastBuildDate>
+        <atom:link href="http://tennisgods.facebookselect.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Andy Murray]]></title>
             <description><![CDATA[<article><h1>Andy Murray</h1><p> Began playing at age 3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fa0c32133824363184f11b5d40274d408743588.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tennisgods/andy-murray/index.html</link>
+            <link>http://tennisgods.facebookselect.com/andy-murray/index.html</link>
             <guid isPermaLink="false">be68fe6c-f081-4c70-8125-c7b371118abb</guid>
             <pubDate>Mon, 16 May 2016 22:39:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stan Wawrinka | Overview | ATP World Tour | Tennis]]></title>
+            <description><![CDATA[<article><h1>Stan Wawrinka | Overview | ATP World Tour | Tennis</h1><p>© Copyright 1994 - 2016 ATP Tour, Inc. All Rights Reserved. No part of this site may be reproduced, stored in a retrieval system or transmitted in any way or by any means (including photocopying, recording or storing it in any medium by electronic means), without the written permission of ATP Tour, Inc..</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a936b7806a4cb1a24f013cd076f684a6/noop.png?input=http%3A%2F%2Fwww.atpworldtour.com%2F~%2Fmedia%2Ftennis%2Fplayers%2Fhead-shot%2F2016%2Fwawrinka_head_16.png"></article>]]></description>
+            <link>http://www.atpworldtour.com/en/players/stan-wawrinka/w367/overview</link>
+            <guid isPermaLink="false">b65e4b62-fc66-42e2-b77f-03213b6cbcaf</guid>
+            <pubDate>Wed, 31 Aug 2016 13:41:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Roger Federer]]></title>
             <description><![CDATA[<article><h1>Roger Federer</h1><p>> Began playing tennis at age 8</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f915b76511777a8358623418e90a97bdd9285d99.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tennisgods/roger-federer/index.html</link>
+            <link>http://tennisgods.facebookselect.com/roger-federer/index.html</link>
             <guid isPermaLink="false">13486622-1142-4c83-a3cb-d9ead435cc6c</guid>
             <pubDate>Mon, 16 May 2016 22:39:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Novak Djokovic]]></title>
             <description><![CDATA[<article><h1>Novak Djokovic</h1><p>> Nicknamed “Nole”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0007418a745478b873c7e524fc9595539d82fe90.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tennisgods/novak-djokovic/index.html</link>
+            <link>http://tennisgods.facebookselect.com/novak-djokovic/index.html</link>
             <guid isPermaLink="false">d93369e2-7047-42f4-beca-fd71119f57b7</guid>
             <pubDate>Mon, 16 May 2016 21:44:45 GMT</pubDate>
         </item>
