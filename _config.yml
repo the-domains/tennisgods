@@ -1,8 +1,30 @@
-name: tennisgods
-favicon: null
-layout_spectrum: 0.4617021
 typography_spectrum: 0.719759012805298
-title: Top 100 Tennis Players
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.75
+  lightness: 0.9375
+  saturation: 0.375
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4617021
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: tennisgods
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.75
-  lightness: 0.9375
-  saturation: 0.375
-  rhythmicContrast: 0.75
+title: Top 100 Tennis Players
 purpose: []
